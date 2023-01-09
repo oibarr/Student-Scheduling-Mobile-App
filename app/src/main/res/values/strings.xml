@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student Scheduler</string>
+    <string name="save">Save</string>
+    <string name="courses">Courses</string>
+    <string name="assessments">Assessments</string>
+    <string name="instructors">Instructors</string>
+    <string name="channel_name">Student Scheduler</string>
+    <string name="channel_description">Student Scheduler Notifications</string>
+</resources>
